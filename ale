@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Día de la Primavera</title>
+    <style>
+        body {
+            background-color: #f0e68c; /* Color de fondo amarillo claro */
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #ffcc00; /* Color del texto */
+            margin-top: 50px;
+        }
+        img {
+            width: 300px; /* Tamaño de las imágenes */
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>¡Feliz Día de la Primavera!</h1>
+    <p>¡Celebremos la llegada de la primavera con alegría y flores!</p>
+    <img src="https://floreshoy.co/wp-content/uploads/2023/06/Diseno-sin-titulo-2023-06-29T181456.429.png" alt="Flores Amarillas">
+    <p>¡Disfruta de esta hermosa estación!</p>
+</body>
+</html>
