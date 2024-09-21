@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Día de la Primavera</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #ffcc00;
+        }
+        img {
+            width: 300px; /* Ajusta según sea necesario */
+        }
+    </style>
+</head>
+<body>
+    <h1>¡Feliz Día de la Primavera!</h1>
+    <p>Que la alegría y la belleza de esta estación te acompañen siempre.</p>
+    <img src="url_de_la_imagen_de_flor_amarilla" alt="Flores Amarillas">
+</body>
+</html>
